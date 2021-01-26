@@ -6,5 +6,5 @@ This is the list of my hobby projects:
 https://bhodzic.github.io/mocha-browser/
 
 ✨ Fetching fpl data and mapping results ✨  
-hhttps://fpldata.herokuapp.com/
+https://fpldata.herokuapp.com/
 
