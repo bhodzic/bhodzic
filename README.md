@@ -11,3 +11,6 @@ https://fpldata.herokuapp.com/
 ✨ React trello clone ✨  
 https://github.com/bhodzic/trello-clone
 
+✨ Learning letters game ✨  
+https://bhodzic.github.io/learning-letters/
+
