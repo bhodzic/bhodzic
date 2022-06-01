@@ -8,8 +8,5 @@ https://bhodzic.github.io/learning-letters/
 ✨ Testing JS functions using mocha in browser ✨  
 https://bhodzic.github.io/mocha-browser/
 
-✨ Fetching fpl data and mapping results ✨  
-https://fpldata.herokuapp.com/
-
 
 
