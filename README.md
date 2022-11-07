@@ -2,6 +2,9 @@ Hi there 👋
 
 This is the list of my hobby projects:
 
+✨ Shorthest path in matrix ✨  
+https://bhodzic.github.io/shortest-path/
+
 ✨ PL gameweek predictions ✨  
 https://bhodzic.github.io/gameweek/
 
