@@ -2,7 +2,8 @@ Hi there 👋
 
 This is the list of my hobby projects:
 
-✨ Shorthest path in matrix ✨  
+✨ [Shorthest path in matrix](https://bhodzic.github.io/shortest-path/)✨ 
+[I'm an inline-style link](https://www.google.com)
 https://bhodzic.github.io/shortest-path/
 
 ✨ Learning letters game ✨  
